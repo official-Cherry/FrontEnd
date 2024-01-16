@@ -1,8 +1,13 @@
 1. index.js
-    ㄴ dynamically changes style with user preferences
+    - dynamically changes style with user preferences
 2. index.html
-    ㄴ main page
+    - main page
 3. style.css
-    ㄴ style 
+    - style 
 
 ![Result of my website](PersonalWebsite.png)
+
+How I deployed my simple project ?
+1. Netlify
+2. Deploy with GitHub (using console)
+3. doesn't work ..! -> I will try to figure it out later
