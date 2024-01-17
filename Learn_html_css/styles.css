@@ -1,0 +1,9 @@
+
+body { /* <- selector*/
+    background: saddlebrown; /* red, blue, yellow, etc */
+    color: chocolate; /* red, blue, yellow, etc */
+    font-size: 40px;  /* 0px - 100px and beyond */
+    font-weight: normal; /* (thickness) lighter, normal, bold  */
+    text-align: center; /* left, center or right  */
+    margin-top: 40px; /* From 0px and upwards   */
+}
